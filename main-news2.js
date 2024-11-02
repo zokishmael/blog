@@ -166,7 +166,7 @@ const jo = {};
       , ct = "theme"
       , a7 = "firebase"
       , w = "8.4.2"
-      , cY = typeof autoTOC !== dg ? autoTOC : false
+      , cY = typeof licenseKey !== dg ? licenseKey : "wwOdJtCkqWZyvx1PtzeGMFbSG3xuqwaogdP8WiBsbYtXp5oPQ9"
       , c = typeof firebaseUrl !== dg ? firebaseUrl : ""
       , bV = typeof safeAds !== dg ? safeAds : false
       , b5 = typeof limitAdsClick !== dg ? limitAdsClick : 3
